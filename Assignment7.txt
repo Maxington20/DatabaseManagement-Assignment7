@@ -1,0 +1,112 @@
+***QUESTION 0***
+ 
+***QUESTION 1***
+ 
+Employees in the School of Business
+-----------------------------------
+2
+
+(1 row(s) affected)
+
+***QUESTION 2***
+ 
+studentNumber finalMark              firstName                                          lastName
+------------- ---------------------- -------------------------------------------------- --------------------------------------------------
+4823589       83                     HABIB                                              CHAUDHURY
+2447779       82                     ELWYN II                                           CHICK
+4186656       78                     THOMAS                                             CHRYSTAL
+8412280       82                     REBECCA A                                          CONRAD
+4878237       80                     NITYANANDA                                         DHYANAPEETAM
+7768229       79                     PATSY                                              GOBEN
+1355460       82                     SHARON                                             KIRK
+6537187       87                     TAPAN                                              MEEHAN
+5242656       82                     SYLVIA                                             NEISS
+6471585       80                     TIM L                                              RANOO
+5386818       80                     REGINALD                                           RIOLO
+6344154       81                     ANNIE                                              SAVELA
+4742615       81                     NANCY                                              SPRATT
+4627675       93                     REX                                                TAULBEE
+
+(14 row(s) affected)
+
+***QUESTION 3***
+ 
+courseNumber Lowest Mark            Average Mark           Maximum Mark
+------------ ---------------------- ---------------------- ----------------------
+CDEV1020     90                     95                     99
+INFO1030     56                     68                     79
+INFO1570     80                     90                     99
+INFO8000     61                     72                     89
+PROG8080     70                     81                     94
+PROG8090     56                     76                     98
+
+(6 row(s) affected)
+
+***QUESTION 4***
+ 
+studentNumber firstName                                          lastName
+------------- -------------------------------------------------- --------------------------------------------------
+1114453       YOU-FANG                                           WANG
+2286425       JENNY L                                            MORQUECHO
+2826147       DOROTHEA                                           BRENGELMAN
+6644710       HENRY                                              SWAIN
+7677479       RAMABAI                                            PANDITA
+7681752       ETIENNE                                            TOLEN
+8588766       AMY C                                              MALESKY
+8866782       IVETTE                                             GULSTON
+
+(8 row(s) affected)
+
+
+***QUESTION 5A***
+ 
+employeeNumber firstName                                          lastName                                           Courses Taught
+-------------- -------------------------------------------------- -------------------------------------------------- --------------
+7572373        KATHY                                              HUHN                                               3
+3455730        DALE                                               KARSH,                                             2
+3566163        ABDOLSAMAD                                         KATHIRESAN                                         2
+3514239        RAKESH                                             WEKENMANN                                          3
+8135170        RICK                                               WHETSTONE                                          3
+2117745        LYNDOL                                             YUROVIC                                            3
+
+(6 row(s) affected)
+
+***QUESTION 5B***
+ 
+employeeNumber firstName                                          lastName                                           Courses Taught
+-------------- -------------------------------------------------- -------------------------------------------------- --------------
+7572373        KATHY                                              HUHN                                               3
+3455730        DALE                                               KARSH,                                             2
+3566163        ABDOLSAMAD                                         KATHIRESAN                                         2
+3214350        PAULETTE                                           SIMS                                               0
+3514239        RAKESH                                             WEKENMANN                                          3
+8135170        RICK                                               WHETSTONE                                          3
+2117745        LYNDOL                                             YUROVIC                                            3
+4427732        ANGEL                                              ZABLAN                                             0
+
+(8 row(s) affected)
+
+***QUESTION 6***
+ 
+acronym name                                               Total Fees
+------- -------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CAD     Computer Applications Development (Coop)           $6,760.00
+CPA     Computer Programmer/Analyst (Coop)                 $9,632.00
+ITID    IT Innovation and Design (Coop)                    $9,642.56
+ITSS    Information Technology Support Services (Coop)     $7,248.00
+
+(4 row(s) affected)
+
+***QUESTION 7***
+ 
+Student Number First Name                                         Last Name                                          Fee Payment Total
+-------------- -------------------------------------------------- -------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2642726        SANDRA                                             BICKERS                                            $13,159.00
+3868247        MELINDA                                            KALINOWSKI                                         $13,159.00
+7826662        GARY                                               MCLAUGHLIN                                         $6,791.44
+1335314        JOSEPH                                             NOLAN                                              $10,000.00
+
+(4 row(s) affected)
+
+***QUESTION 8***
+ 
